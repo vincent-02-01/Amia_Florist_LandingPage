@@ -95,11 +95,11 @@ const englishText = new Map(
     "ĐỊA CHỈ": "ADDRESS",
     "75 Nguyễn Hoàng, Quận Hải Châu": "75 Nguyen Hoang, Hai Chau District",
     "Đà Nẵng, Việt Nam": "Da Nang, Vietnam",
-    "Xem trên bản đồ ↗": "View on map ↗",
+    "Xem trên bản đồ": "View on map",
     "GIỜ MỞ CỬA": "OPENING HOURS",
     "Thứ Hai — Chủ Nhật": "Monday — Sunday",
     "LIÊN HỆ": "CONTACT",
-    "Về đầu trang ↑": "Back to top ↑",
+    "Về đầu trang": "Back to top",
     "Crafted with care in Đà Nẵng.": "Crafted with care in Da Nang.",
   }),
 );
